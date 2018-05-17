@@ -1,0 +1,11 @@
+D:\Projects\BreadShop\BreadShop.IdentityServer\bin\Debug\netcoreapp2.0\BreadShop.IdentityServer.deps.json
+D:\Projects\BreadShop\BreadShop.IdentityServer\bin\Debug\netcoreapp2.0\BreadShop.IdentityServer.runtimeconfig.json
+D:\Projects\BreadShop\BreadShop.IdentityServer\bin\Debug\netcoreapp2.0\BreadShop.IdentityServer.runtimeconfig.dev.json
+D:\Projects\BreadShop\BreadShop.IdentityServer\bin\Debug\netcoreapp2.0\BreadShop.IdentityServer.dll
+D:\Projects\BreadShop\BreadShop.IdentityServer\bin\Debug\netcoreapp2.0\BreadShop.IdentityServer.pdb
+D:\Projects\BreadShop\BreadShop.IdentityServer\obj\Debug\netcoreapp2.0\BreadShop.IdentityServer.csproj.CoreCompileInputs.cache
+D:\Projects\BreadShop\BreadShop.IdentityServer\obj\Debug\netcoreapp2.0\BreadShop.IdentityServer.AssemblyInfoInputs.cache
+D:\Projects\BreadShop\BreadShop.IdentityServer\obj\Debug\netcoreapp2.0\BreadShop.IdentityServer.AssemblyInfo.cs
+D:\Projects\BreadShop\BreadShop.IdentityServer\obj\Debug\netcoreapp2.0\BreadShop.IdentityServer.dll
+D:\Projects\BreadShop\BreadShop.IdentityServer\obj\Debug\netcoreapp2.0\BreadShop.IdentityServer.pdb
+D:\Projects\BreadShop\BreadShop.IdentityServer\obj\Debug\netcoreapp2.0\BreadShop.IdentityServer.csprojResolveAssemblyReference.cache

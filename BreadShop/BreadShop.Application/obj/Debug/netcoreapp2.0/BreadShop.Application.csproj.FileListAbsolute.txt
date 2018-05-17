@@ -1,0 +1,13 @@
+D:\Projects\BreadShop\BreadShop.Application\bin\Debug\netcoreapp2.0\BreadShop.Application.deps.json
+D:\Projects\BreadShop\BreadShop.Application\bin\Debug\netcoreapp2.0\BreadShop.Application.dll
+D:\Projects\BreadShop\BreadShop.Application\bin\Debug\netcoreapp2.0\BreadShop.Application.pdb
+D:\Projects\BreadShop\BreadShop.Application\bin\Debug\netcoreapp2.0\BreadShop.Data.dll
+D:\Projects\BreadShop\BreadShop.Application\bin\Debug\netcoreapp2.0\BreadShop.Domain.dll
+D:\Projects\BreadShop\BreadShop.Application\bin\Debug\netcoreapp2.0\BreadShop.Data.pdb
+D:\Projects\BreadShop\BreadShop.Application\bin\Debug\netcoreapp2.0\BreadShop.Domain.pdb
+D:\Projects\BreadShop\BreadShop.Application\obj\Debug\netcoreapp2.0\BreadShop.Application.csprojResolveAssemblyReference.cache
+D:\Projects\BreadShop\BreadShop.Application\obj\Debug\netcoreapp2.0\BreadShop.Application.csproj.CoreCompileInputs.cache
+D:\Projects\BreadShop\BreadShop.Application\obj\Debug\netcoreapp2.0\BreadShop.Application.AssemblyInfoInputs.cache
+D:\Projects\BreadShop\BreadShop.Application\obj\Debug\netcoreapp2.0\BreadShop.Application.AssemblyInfo.cs
+D:\Projects\BreadShop\BreadShop.Application\obj\Debug\netcoreapp2.0\BreadShop.Application.dll
+D:\Projects\BreadShop\BreadShop.Application\obj\Debug\netcoreapp2.0\BreadShop.Application.pdb
